@@ -9,7 +9,7 @@
   <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="Guilherme-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Guilherme-VSC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="right" alt="Gui-pic" height="140" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97141882/148226950-f2d0c858-1c8c-4460-8eb7-2b48ae45070a.png">
+  <img align="right" alt="Gui-pic" height="140" style="border-radius:0px;" src="https://user-images.githubusercontent.com/97141882/148226950-f2d0c858-1c8c-4460-8eb7-2b48ae45070a.png">
 </div>
 
   ##
